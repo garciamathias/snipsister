@@ -33,7 +33,7 @@ export default function HoursSection() {
           </h2>
           
           <p className="text-center text-lg mb-12 max-w-2xl mx-auto">
-            Visit us at your convenience. We're here to serve you with exceptional hair care services.
+            Visit us at your convenience. We&apos;re here to serve you with exceptional hair care services.
           </p>
 
           <div className="grid md:grid-cols-2 gap-8">

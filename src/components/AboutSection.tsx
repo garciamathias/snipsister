@@ -26,7 +26,7 @@ export default function AboutSection() {
           <div className="bg-lightSage p-8 rounded-2xl" data-aos="fade-up" data-aos-delay="100">
             <h3 className="font-playfair text-2xl mb-4">Listening and Personalisation</h3>
             <p>
-              Your style is unique, and so is your hair. That's why we take the time to listen, 
+              Your style is unique, and so is your hair. That&apos;s why we take the time to listen, 
               understand your needs, and offer a fully tailored service. Every cut, colour, and 
               treatment is designed to enhance your natural beauty.
             </p>
@@ -44,7 +44,7 @@ export default function AboutSection() {
           <div className="bg-lightSage p-8 rounded-2xl" data-aos="fade-up" data-aos-delay="300">
             <h3 className="font-playfair text-2xl mb-4">Eco-Friendly Commitment</h3>
             <p>
-              Because beauty shouldn't come at the expense of the planet, we select products that 
+              Because beauty shouldn&apos;t come at the expense of the planet, we select products that 
               share our commitment to a greener future. At Snip Sister, we prioritise brands that 
               use natural ingredients and sustainable packaging.
             </p>
@@ -55,7 +55,7 @@ export default function AboutSection() {
         <div className="max-w-4xl mx-auto bg-white rounded-2xl p-8 shadow-lg" data-aos="fade-up">
           <h3 className="font-playfair text-3xl mb-6 text-center">Our Choice: Original Mineral</h3>
           <p className="mb-4">
-            At Snip Sister, we've chosen Original Mineral, an innovative Australian brand, to 
+            At Snip Sister, we&apos;ve chosen Original Mineral, an innovative Australian brand, to 
             provide your hair with the best care while respecting its natural qualities. Free from 
             ammonia, parabens, and formulated with natural ingredients, Original Mineral delivers 
             both performance and well-being for your hair.
@@ -70,7 +70,7 @@ export default function AboutSection() {
         {/* Julie's Expertise */}
         <div className="max-w-4xl mx-auto mt-16" data-aos="fade-up">
           <h2 className="font-playfair text-4xl text-center mb-8">
-            Discover Julie's Expertise at Snip Sister
+            Discover Julie&apos;s Expertise at Snip Sister
           </h2>
           <div className="bg-white rounded-2xl p-8 shadow-lg">
             <p className="mb-4">
@@ -80,8 +80,8 @@ export default function AboutSection() {
             </p>
             <p className="mb-4">
               A specialist in balayage and colour work, Julie creates personalised tones that 
-              enhance your style while maintaining the health of your hair. Whether you're dreaming 
-              of a luminous blonde, a natural sun-kissed look, or a bold transformation, she's here 
+              enhance your style while maintaining the health of your hair. Whether you&apos;re dreaming 
+              of a luminous blonde, a natural sun-kissed look, or a bold transformation, she&apos;s here 
               to guide you and deliver stunning results.
             </p>
             <p>
