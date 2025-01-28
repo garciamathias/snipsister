@@ -44,12 +44,12 @@ export default function HoursSection() {
                 <div
                   key={day}
                   data-day={day}
-                  className="hour group flex items-center justify-between p-4 rounded-lg hover:bg-lightSage transition-all duration-300"
+                  className="hour flex items-center justify-between p-4 rounded-lg transition-all duration-300"
                   data-aos="fade-right"
                   data-aos-delay={index * 100}
                 >
                   <span className="font-playfair text-lg">{day}</span>
-                  <span className="text-primary font-medium">{time}</span>
+                  <span className="font-medium">{time}</span>
                 </div>
               ))}
             </div>
@@ -61,12 +61,12 @@ export default function HoursSection() {
                 <div
                   key={day}
                   data-day={day}
-                  className="hour group flex items-center justify-between p-4 rounded-lg hover:bg-lightSage transition-all duration-300"
+                  className="hour flex items-center justify-between p-4 rounded-lg transition-all duration-300"
                   data-aos="fade-left"
                   data-aos-delay={index * 100}
                 >
                   <span className="font-playfair text-lg">{day}</span>
-                  <span className="text-primary font-medium">{time}</span>
+                  <span className="font-medium">{time}</span>
                 </div>
               ))}
               <div className="mt-8 p-6 bg-lightSage rounded-lg">

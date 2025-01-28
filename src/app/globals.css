@@ -48,11 +48,19 @@
   }
 
   .hour {
-    @apply flex justify-between p-5 border-b last:border-b-0 transition-all duration-300;
+    @apply flex items-center justify-between p-4 rounded-lg transition-all duration-300 hover:bg-[#EFF4F0]/80;
   }
 
   .hour.current-day {
-    @apply bg-[var(--primary-color)] text-white scale-105 shadow-lg rounded-lg;
+    @apply bg-[var(--primary-color)] text-white scale-105 shadow-lg;
+  }
+
+  .hour.current-day span {
+    @apply text-white;
+  }
+
+  .hour:hover:not(.current-day) {
+    @apply bg-[#EFF4F0]/80;
   }
 
   .mobile-menu-link {
