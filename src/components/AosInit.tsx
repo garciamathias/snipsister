@@ -8,8 +8,9 @@ export default function AosInit() {
   useEffect(() => {
     AOS.init({
       duration: 800,
-      offset: 100,
-      once: true
+      once: true,
+      easing: 'ease-out',
+      mirror: true,
     });
   }, []);
 
