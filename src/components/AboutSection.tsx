@@ -1,7 +1,5 @@
 'use client';
 
-import Image from 'next/image';
-
 export default function AboutSection() {
   return (
     <section id="about" className="py-24 px-4 bg-lightSage">
