@@ -30,7 +30,7 @@ export default function Navbar() {
               Hours
             </Link>
             <a 
-              href="https://snipsisterhairsalon.square.site"
+              href="https://book.squareup.com/appointments/kzajg8a777s5d9/location/LFNP7NEEQ6BPB/services"
               target="_blank"
               rel="noopener noreferrer" 
               className="btn-primary"
@@ -85,7 +85,7 @@ export default function Navbar() {
               Hours
             </Link>
             <a 
-              href="https://snipsisterhairsalon.square.site"
+              href="https://book.squareup.com/appointments/kzajg8a777s5d9/location/LFNP7NEEQ6BPB/services"
               target="_blank"
               rel="noopener noreferrer" 
               className="btn-primary inline-block text-center"

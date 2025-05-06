@@ -1,3 +1,5 @@
+'use client';
+
 import Image from 'next/image';
 
 export default function Hero() {
@@ -27,7 +29,7 @@ export default function Hero() {
           Your premium hair salon in Cairns, Australia
         </p>
         <a 
-          href="https://snipsisterhairsalon.square.site" 
+          href="https://book.squareup.com/appointments/kzajg8a777s5d9/location/LFNP7NEEQ6BPB/services" 
           target="_blank"
           rel="noopener noreferrer"
           className="btn-primary inline-block hover:scale-105 transition-transform"

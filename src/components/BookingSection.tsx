@@ -1,3 +1,5 @@
+'use client';
+
 export default function BookingSection() {
   return (
     <section id="booking" className="py-24 px-4 bg-white" data-aos="fade-up">
@@ -11,7 +13,7 @@ export default function BookingSection() {
         </p>
 
         <a 
-          href="https://snipsisterhairsalon.square.site"
+          href="https://book.squareup.com/appointments/kzajg8a777s5d9/location/LFNP7NEEQ6BPB/services"
           target="_blank"
           rel="noopener noreferrer"
           className="btn-primary text-lg px-12 py-4 inline-flex items-center gap-2 hover:scale-105"
