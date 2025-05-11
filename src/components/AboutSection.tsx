@@ -65,31 +65,6 @@ export default function AboutSection() {
           </p>
         </div>
 
-        {/* Julie's Expertise */}
-        <div className="max-w-4xl mx-auto mt-16" data-aos="fade-up">
-          <h2 className="font-playfair text-4xl text-center mb-8">
-            Discover Julie&apos;s Expertise at Snip Sister
-          </h2>
-          <div className="bg-white rounded-2xl p-8 shadow-lg">
-            <p className="mb-4">
-              With 12 years of international experience, Julie brings her talent and passion to your 
-              hair. Having perfected her skills in France, Australia, and New Zealand, she offers 
-              modern techniques and unique expertise tailored to your needs.
-            </p>
-            <p className="mb-4">
-              A specialist in balayage and colour work, Julie creates personalised tones that 
-              enhance your style while maintaining the health of your hair. Whether you&apos;re dreaming 
-              of a luminous blonde, a natural sun-kissed look, or a bold transformation, she&apos;s here 
-              to guide you and deliver stunning results.
-            </p>
-            <p>
-              At Snip Sister, we believe in revealing natural beauty through high-quality care and 
-              a personalised approach. Trust Julie with your hair and enjoy an exceptional salon 
-              experience.
-            </p>
-          </div>
-        </div>
-
         <div className="text-center mt-8 font-playfair text-xl italic text-primary" data-aos="fade-up">
           Snip Sister – The art of revealing your natural beauty, with peace of mind.
         </div>
